@@ -1,2 +1,4 @@
 # tims-world
-My first test repository
+My first test repository.
+
+Learning to to git-hub.
