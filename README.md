@@ -1,4 +1,4 @@
 # tims-world
 My first test repository.
 
-Learning to to git-hub.
+Learning to use git-hub.
